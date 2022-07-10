@@ -9,4 +9,4 @@ This repository contains 4 different folders
 
 3. Technical Indicators :- These are ready made indicators that investors use to study the market so I have provided the code for it.
 
-4. Trading Strategy :- Lastly by making the use of the above Technical Indicators I have made a Trading Strategy all by myself which could be used to trade in live market.
+4. Trading Strategy :- Lastly by making the use of the above Technical Indicators I have made a Trading Strategy all by myself which could be used to trade in live market. I designed a strategy in such a way that it gave a return of 28.8% in a year.
